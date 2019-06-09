@@ -20,6 +20,34 @@ code:https://github.com/vita-epfl/openpifpafwebdemo
 paper:https://arxiv.org/abs/1903.08839
 
 
+3. (2019)PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation    
+paper:https://arxiv.org/pdf/1812.11788.pdf  
+code:https://github.com/zju-3dv/pvnet  
+ 
+
+3. (2019)Extreme Relative Pose Estimation for RGB-D Scans via Scene Completion (Oral)  
+paper:https://arxiv.org/pdf/1901.00063.pdf  
+code:https://github.com/zhenpeiyang/RelativePose  
+
+
+3. (2019)Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views  
+paper:https://arxiv.org/abs/1901.04111  
+code:https://github.com/zju-3dv/mvpose  
+
+
+3. (2019) RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation  
+paper:https://arxiv.org/abs/1902.09868  
+
+3. (2019) 3D Hand Shape and Pose from Images in the Wild(Oral)  
+paper: https://arxiv.org/pdf/1902.03451.pdf
+code:https://github.com/boukhayma/3dhand
+
+
+3. (2019) Deep High-Resolution Representation Learning for Human Pose Estimation(目前SOTA,已经开源)  
+paper:
+
+
+
 3. (2019)
 paper:
 code:
@@ -33,6 +61,8 @@ code:
 3. (2019)
 paper:
 code:
+
+
 
 
 
